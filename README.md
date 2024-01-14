@@ -5,11 +5,11 @@ Notes on papers
 
 * *Authors:* Martin Aum¨uller and Matteo Ceccarello
 * *Link:* https://imada.sdu.dk/Research/EDML/EDML19_paper_3.pdf
-* *Annotated Copy:* [EDML19_paper_3_annotated.pdf](EDML19_paper_3_annotated.pdf)
+* *Annotated Copy:* [EDML19_paper_3.pdf](./annotated/EDML19_paper_3_annotated.pdf)
 * *Date read:* 31 March 2021
 * *Keywords:* KNN, LID, search
 
-### Summary
+### Notes
 
 * The authors explore the relationship between local intrinsic dimensionality (LID) of query points and performance for several different approximate *k*-nearest neighbor (ANN) algorithms.
 
@@ -25,11 +25,11 @@ Notes on papers
 
 * *Authors:* Leilei Gan, Kun Kuang, Yi Yang and Fei Wu
 * *Link:* https://www.aaai.org/AAAI21Papers/AAAI-7838.GanL.pdf
-* *Annotated Copy:* [AAAI-7838.GanL-annotated.pdf](AAAI-7838.GanL-annotated.pdf)
+* *Annotated Copy:* [AAAI-7838.GanL.pdf](./annotated/AAAI-7838.GanL.pdf)
 * *Date read:* 16 April 2021
 * *Keywords:* NN, legal, logic
 
-### Summary
+### Notes
 
 * The authors develop a model for predicting legal judgements from expressions
   of facts and complaints that combines a neural network, specifically word
@@ -45,17 +45,17 @@ Notes on papers
 
 * *Authors:* Alexander, Charlotte and Al Jadda, Khalifeh and Feizollahi, Mohammed Javad and Tucker, Anne M.
 * *Link:* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230224
-* *Annotated copy:* [SSRN-id3230224-annotated.pdf](SSRN-id3230224-annotated.pdf)
+* *Annotated copy:* [SSRN-id3230224.pdf](./annotated/SSRN-id3230224.pdf)
 * *Date read:* 16 April 2021
 * *Keywords:* legal, NLP
 
-### Summary
+### Notes
 
 * The authors describe the process of data acquisition, data preprocessing and
   preliminary model training for a project to try to predict the outcome of a
   court case using information available at various stages. They use PACER data
   for 5111 cases from the U.S. District Court for the Northern District of
-  Georgia. 
+  Georgia.
 
 * The paper does not describe any very novel techniques for modeling case
   outcomes, and is a preliminary report. It does, however, contain a wealth of
@@ -68,11 +68,11 @@ Notes on papers
 
 * *Authors:* Kulis, Brian and Jordan, Michael I.
 * *Link:* https://icml.cc/2012/papers/291.pdf
-* *Annotated copy:* [291-annotated.pdf](291-annotated.pdf)
+* *Annotated copy:* [291.pdf](./annotated/291.pdf)
 * *Date read:* 23 April 2021
 * *Keywords:* clustering, bayesian, k-means
 
-### Summary
+### Notes
 
 The authors show how k-means clustering can be reinterpreted as the asymptotic
 limit of a Gaussian mixture problem. They then extend the approach to a novel
@@ -85,9 +85,9 @@ evaluate their methods on published and synthetic data sets.
 * *Authors:* Mehdi Allahyari, Seyedamin Pouriyehy, Mehdi Assefiy, Saeid Safaeiy, Elizabeth D. Trippez,
 Juan B. Gutierrezz, Krys Kochut
 * *Link:* https://thesai.org/Downloads/Volume8No10/Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf
-* *Annotated copy:* [Paper_52-Text_Summarization_Techniques_a_Brief_Survey-annotated.pdf](Paper_52-Text_Summarization_Techniques_a_Brief_Survey-annotated.pdf)
+* *Annotated copy:* [Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf](./annotated/Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf)
 * *Date read:* 14 May 2021
 * *Keywords:* NLP, summarization
 
-### Summary
+### Notes
 The authors break down the process of generating extractive summaries of text, and describe different approaches to each of the component steps. The paper was published in 2017 and therefore predates some of the more recent work using transformer models, but it does provide a good overview, with a balance of supervised and unsupervised techniques described.
