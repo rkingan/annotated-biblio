@@ -5,7 +5,7 @@ Notes on papers
 
 * *Authors:* Martin Aum¨uller and Matteo Ceccarello
 * *Link:* https://imada.sdu.dk/Research/EDML/EDML19_paper_3.pdf
-* *Annotated Copy:* [EDML19_paper_3.pdf](./annotated/EDML19_paper_3_annotated.pdf)
+* *Annotated Copy:* [aumuller2020ann.pdf](./annotated/aumuller2020ann.pdf)
 * *Date read:* 31 March 2021
 * *Keywords:* KNN, LID, search
 
@@ -25,7 +25,7 @@ Notes on papers
 
 * *Authors:* Leilei Gan, Kun Kuang, Yi Yang and Fei Wu
 * *Link:* https://www.aaai.org/AAAI21Papers/AAAI-7838.GanL.pdf
-* *Annotated Copy:* [AAAI-7838.GanL.pdf](./annotated/AAAI-7838.GanL.pdf)
+* *Annotated Copy:* [gan2021judgment.pdf](./annotated/gan2021judgment.pdf)
 * *Date read:* 16 April 2021
 * *Keywords:* NN, legal, logic
 
@@ -45,7 +45,7 @@ Notes on papers
 
 * *Authors:* Alexander, Charlotte and Al Jadda, Khalifeh and Feizollahi, Mohammed Javad and Tucker, Anne M.
 * *Link:* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230224
-* *Annotated copy:* [SSRN-id3230224.pdf](./annotated/SSRN-id3230224.pdf)
+* *Annotated copy:* [alexander2018using.pdf](./annotated/alexander2018using.pdf)
 * *Date read:* 16 April 2021
 * *Keywords:* legal, NLP
 
@@ -68,7 +68,7 @@ Notes on papers
 
 * *Authors:* Kulis, Brian and Jordan, Michael I.
 * *Link:* https://icml.cc/2012/papers/291.pdf
-* *Annotated copy:* [291.pdf](./annotated/291.pdf)
+* *Annotated copy:* [kulis2011revisiting.pdf](./annotated/kulis2011revisiting.pdf)
 * *Date read:* 23 April 2021
 * *Keywords:* clustering, bayesian, k-means
 
@@ -85,7 +85,7 @@ evaluate their methods on published and synthetic data sets.
 * *Authors:* Mehdi Allahyari, Seyedamin Pouriyehy, Mehdi Assefiy, Saeid Safaeiy, Elizabeth D. Trippez,
 Juan B. Gutierrezz, Krys Kochut
 * *Link:* https://thesai.org/Downloads/Volume8No10/Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf
-* *Annotated copy:* [Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf](./annotated/Paper_52-Text_Summarization_Techniques_a_Brief_Survey.pdf)
+* *Annotated copy:* [allahyari2017text.pdf](./annotated/allahyari2017text.pdf)
 * *Date read:* 14 May 2021
 * *Keywords:* NLP, summarization
 
